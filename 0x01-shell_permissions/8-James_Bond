@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# This script sets permissions: owner and group have no access, others have all permissions
+chmod 007 hello
