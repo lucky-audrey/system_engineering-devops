@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-# This script adds execute permission to all subdirectories for owner, group, and others
-find . -type d -exec chmod a+x {} +
