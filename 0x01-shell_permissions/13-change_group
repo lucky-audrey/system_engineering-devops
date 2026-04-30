@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-# This script changes the group owner of the file hello to school
-chown :school hello
